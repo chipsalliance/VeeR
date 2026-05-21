@@ -21,4 +21,6 @@ VeeR (Very Efficient & Elegant RISC-V) is an open source production-grade RISC-V
 
 ## TSC Meetings
 
-The VeeR Technical Steering Committee meets biweekly on Fridays at 5:00 PM CET/CEST (8:00 AM PST/PDT). The meetings are open to the public.
+The VeeR Technical Steering Committee meets biweekly on Fridays at 5:00 PM CET/CEST (8:00 AM PST/PDT).
+See the [project calendar](https://calendar.google.com/calendar/embed?src=c_5ff11aeec417bfd15b72fbd2ba98861d1f2bc6c0e4e38d94d5dbb245396c9d2a%40group.calendar.google.com) for the schedule.
+The meetings are open to the public.
