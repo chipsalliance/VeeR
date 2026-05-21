@@ -18,3 +18,7 @@ VeeR (Very Efficient & Elegant RISC-V) is an open source production-grade RISC-V
 * [EL2](https://github.com/chipsalliance/Cores-VeeR-EL2) - a tiny and low-power RV32IMC (with partial support for Z extension) core, which is the variant used in the Caliptra project.
 
 [Guineveer](https://github.com/chipsalliance/guineveer) project provides a simple SoC design with the VeeR-EL2 core.
+
+## TSC Meetings
+
+The VeeR Technical Steering Committee meets biweekly on Fridays at 5:00 PM CET/CEST (8:00 AM PST/PDT). The meetings are open to the public.
